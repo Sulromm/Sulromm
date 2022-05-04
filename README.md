@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sulromm
 - 👀 I’m interested in Java/Spring Data Project
-- 🌱 I’m currently learning above technologies
+- 🌱 I’m currently learning technologies mentioned above.
 - 💞️ I’m looking to collaborate on any topic related to software development 
 - 📫 How to reach me mehmet97dogan@gmail.com
 
